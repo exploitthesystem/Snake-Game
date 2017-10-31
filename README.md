@@ -8,6 +8,7 @@ World objects:
 food - Represents a food item in the game.  
 Snake - Represents a snake object in the game.  
 World - Represents the world map.  
+Point - Represents a coordinate on the game map.
 
 Networking:  
 NetworkController - Manages client-server interfacing.  
